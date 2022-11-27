@@ -24,9 +24,9 @@ nameserver 185.51.200.2" | sudo tee /etc/resolv.conf
 echo "Done!"
 ```
 
-![](/Users/moghaddam/Documents/GitHub/PythonLab/HW2/images/VirtualBox_Ubuntu2204_26_11_2022_14_55_35.png)
+![](images/VirtualBox_Ubuntu2204_26_11_2022_14_55_35.png)
 
-![](/Users/moghaddam/Documents/GitHub/PythonLab/HW2/images/VirtualBox_Ubuntu2204_26_11_2022_14_56_26.png)
+![](images/VirtualBox_Ubuntu2204_26_11_2022_14_56_26.png)
 
 ## 1-2-1
 
@@ -51,9 +51,9 @@ DIR=\lib
 walk_dir "$DIR"
 ```
 
-![](/Users/moghaddam/Documents/GitHub/PythonLab/HW2/images/VirtualBox_Ubuntu2204_26_11_2022_14_58_46.png)
+![](images/VirtualBox_Ubuntu2204_26_11_2022_14_58_46.png)
 
-![](/Users/moghaddam/Documents/GitHub/PythonLab/HW2/images/VirtualBox_Ubuntu2204_26_11_2022_15_02_31.png)
+![](images/VirtualBox_Ubuntu2204_26_11_2022_15_02_31.png)
 
 ## 1-2-2
 
@@ -100,15 +100,15 @@ do
 done
 ```
 
-![](/Users/moghaddam/Documents/GitHub/PythonLab/HW2/images/VirtualBox_Ubuntu2204_26_11_2022_22_35_47.png)
+![](images/VirtualBox_Ubuntu2204_26_11_2022_22_35_47.png)
 
-![](/Users/moghaddam/Documents/GitHub/PythonLab/HW2/images/VirtualBox_Ubuntu2204_26_11_2022_22_36_17.png)
+![](images/VirtualBox_Ubuntu2204_26_11_2022_22_36_17.png)
 
-![](/Users/moghaddam/Documents/GitHub/PythonLab/HW2/images/VirtualBox_Ubuntu2204_26_11_2022_22_36_24.png)
+![](images/VirtualBox_Ubuntu2204_26_11_2022_22_36_24.png)
 
-![](/Users/moghaddam/Documents/GitHub/PythonLab/HW2/images/VirtualBox_Ubuntu2204_26_11_2022_22_36_31.png)
+![](images/VirtualBox_Ubuntu2204_26_11_2022_22_36_31.png)
 
-![](/Users/moghaddam/Documents/GitHub/PythonLab/HW2/images/VirtualBox_Ubuntu2204_26_11_2022_22_36_40.png)
+![](images/VirtualBox_Ubuntu2204_26_11_2022_22_36_40.png)
 
 ## 1-4
 
@@ -138,13 +138,13 @@ From the terminal in your main operating system, run the SSH command in the foll
 ssh -p [Host port] [Guest OS username]@[Guest IP]
 ```
 
-![](/Users/moghaddam/Documents/GitHub/PythonLab/HW2/images/Screenshot%20(9).png)
+![](images/Screenshot%20(9).png)
 
-![](/Users/moghaddam/Documents/GitHub/PythonLab/HW2/images/Screenshot%20(10).png)
+![](images/Screenshot%20(10).png)
 
-![](/Users/moghaddam/Documents/GitHub/PythonLab/HW2/images/Screenshot%20(12).png)
+![](images/Screenshot%20(12).png)
 
-![](/Users/moghaddam/Documents/GitHub/PythonLab/HW2/images/Screenshot%20(13).png)
+![](images/Screenshot%20(13).png)
 
 ## 2-2
 
