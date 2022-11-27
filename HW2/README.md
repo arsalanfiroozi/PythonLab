@@ -4,7 +4,7 @@
 
 #### How to set [shecan.ir](https://shecan.ir) DNS settings on Linux:
 
-![Screenshot 1401-09-05 at 08.35.41.png](/images/Screenshot%201401-09-05%20at%2008.35.41.png)
+![](images/Screenshot%201401-09-05%20at%2008.35.41.png)
 
 #### Using bash scripting:
 
