@@ -1,0 +1,9 @@
+Configuring Mutt 
+
+1.	‘sudo apt-get install mutt’
+2.	mkdir -p ~/.mutt/cache/headers
+3.	mkdir ~/.mutt/cache/bodies
+4.	touch ~/.mutt/certificates
+5.	‘gedit ~/.mutt/muttrc’
+6.	Copy and Paste ‘mutt_config’ contents to ‘muttrc’
+7.	Change the value of ‘realname’ to your name

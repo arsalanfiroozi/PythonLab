@@ -1,0 +1,21 @@
+set imap_user = 'sut25719test@gmail.com'
+set imap_pass = '?5^W6hqT\R'
+set smtp_url = 'smtp://sut25719test@smtp.gmail.com:587/'
+set smtp_pass = '?5^W6hqT\R'
+set from = 'sut25719test@gmail.com'
+set realname = 'YOUR NAME'
+
+set folder = 'imaps://imap.gmail.com:993'
+set spoolfile = '+INBOX'
+set postponed = '+[Gmail]/Drafts'
+set trash = 'imaps://imap.gmail.com[Gmail]/Trash'
+
+set sendmail = '/usr/bin/msmtp'
+set header_cache = '~/.mutt/cache/headers'
+set message_cachedir = '~/.mutt/cache/bodies'
+set certificate_file = '~/.mutt/certificates'
+
+set move = no
+set imap_keepalive = 900
+set ssl_starttls = yes
+set ssl_force_tls = yes
