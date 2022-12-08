@@ -1,0 +1,4 @@
+Diff 			Show changes between commits
+Cherry Pick 		Apply the changes introduced by some existing commits
+Reset			Reset current HEAD to the specified state
+Rebase			Integrate changes from one branch to another
